@@ -1,7 +1,7 @@
-—-
+---
 title: I Don’t Need To Chew Bubblegum
 layout: post
-—-
+---
 
 > I don’t need to check bubblegum each day
 
@@ -11,6 +11,6 @@ The voice has to go so that I can truly be free of this burden. I no longer am t
 
 ## Where am I at?
 
-Well. I was not a heavy drinker in the sense I never hit spirits. But I have come to learn, and what I had tricked myself into previously, is that means jack shit. See I was slain to beer. I thought it was a drink that was healthier than a massive influx of toxins from spirits. What I failed to capture was how much beer I truly was consuming. It was horrendous. The hangovers would of been just the same with hard alcohol. 
+Well. I was not a heavy drinker in the sense I never hit spirits. But I have come to learn, and what I had tricked myself into previously, is that means jack shit. See I was slain to beer. I thought it was a drink that was healthier than a massive influx of toxins from spirits. What I failed to capture was how much beer I truly was consuming. It was horrendous. The hangovers would of been just the same with hard alcohol.
 
 But here I am. Not, not allowing, just not having.
