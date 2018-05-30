@@ -10,3 +10,5 @@ fields:
 - type: text
   name: layout
   label: Layout
+pages:
+- _posts/this-is-a-test.md
