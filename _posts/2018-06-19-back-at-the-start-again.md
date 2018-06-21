@@ -1,7 +1,7 @@
 ---
 date: 2018-06-19 07:59:01-0700
 layout: post
-slug: "back-at-the-start...-again"
+slug: "back-at-the-start-again"
 title: Back at the start... again
 description:
 tags:
