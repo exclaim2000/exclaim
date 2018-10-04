@@ -1,7 +1,7 @@
 ---
 date: 2018-10-03 18:06:19-0700
 layout: post
-slug: "well...-i'm-back-here-again"
+slug: "well-im-back-here-again"
 title: Well... I'm back here again
 description:
 tags:
